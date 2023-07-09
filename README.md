@@ -1,4 +1,5 @@
-![image](https://github.com/analytics-debugger/analytics-firewall/assets/1494564/7d97d16c-43b7-423f-b814-ecb94dfc8029)
+![image](https://github.com/analytics-debugger/analytics-firewall/assets/1494564/2ef31c27-2260-4f0a-bffe-c20b4877f014)
+
 
 # Analytics Firewall
 This application enables anyone to set up a personalized public endpoint capable of receiving **Google Analytics 4 Payloads**, similar to a SGTM (*Server-side Google Tag Manager*) endpoint.
@@ -31,7 +32,8 @@ The tool will parse the **GA4 collect payload**, and will generate a JSON file/s
 
 Data is generated in real-time, meaning that you could get RealTime Insigths if you opt-in for a database with that support. 
 
-![image](https://github.com/analytics-debugger/analytics-firewall/assets/1494564/3c83d594-54ea-49ad-929d-47b596dabf1c)
+![image](https://github.com/analytics-debugger/analytics-firewall/assets/1494564/7aa38637-3533-46cf-8fc4-417df66d1b1c)
+
 
 ## Measurement ID spoofing
 
